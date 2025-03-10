@@ -1,16 +1,24 @@
-# taskjosse
+# TaskJossProses 
+**Pengembangan**
+Dalam pengembangan TaskJoss, saya menggunakan beberapa referensi untuk membangun aplikasi manajemen tugas yang efektif dengan UI seperti di FIGMA.
 
-A new Flutter project.
+**Informasi Login**
+Username: TaskJoss
+Password: Admin123
 
-## Getting Started
+Dokumentasi resmi Flutter menjadi panduan utama untuk implementasi widget Material Design dan pengelolaan state. Untuk UI, saya terinspirasi dari dua sumber: panduan Material Design 3 dan FIGMA panduan.
 
-This project is a starting point for a Flutter application.
+Tantangan utama dalam project ini adalah merancang alur aplikasi yang intuitif. Saya memutuskan menggunakan navigasi bottom bar dengan dua tab utama untuk akses cepat ke dashboard dan profil. Sistem manajemen tugas didesain dengan konsep kategori (Tugas Harian dan Prioritas) untuk membantu pengguna mengorganisir aktivitas mereka.
 
-A few resources to get you started if this is your first Flutter project:
+Fitur yang saya implementasikan meliputi:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Autentikasi sederhana
+2. Dashboard dengan tampilan tugas yang bisa di-filter
+3. Form penambahan tugas dengan pilihan rentang waktu
+4. Profil pengguna dengan info dasar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Library utama yang digunakan hanya core Flutter tanpa dependency tambahan untuk menjaga performa aplikasi tetap ringan. UI menggunakan skema warna Deep Purple (#673AB7) yang memberikan tampilan profesional dan memiliki vibe RISTEK.
+
+Terima kasih telah menggunakan TaskJoss! Aplikasi ini dibuat dengan memperhatikan kebutuhan pengguna untuk mengelola tugas dengan mudah dan cepat. Jika Anda menemukan bug atau masalah dalam aplikasi ini, mohon dimaafkan. Silakan laporkan masalah tersebut melalui fitur Issues di repositori GitHub ini. 
+
+Terima kasih telah menggunakan TaskJoss! 
