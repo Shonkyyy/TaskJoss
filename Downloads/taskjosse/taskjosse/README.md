@@ -20,5 +20,3 @@ Fitur yang saya implementasikan meliputi:
 Library utama yang digunakan hanya core Flutter tanpa dependency tambahan untuk menjaga performa aplikasi tetap ringan. UI menggunakan skema warna Deep Purple (#673AB7) yang memberikan tampilan profesional dan memiliki vibe RISTEK.
 
 Terima kasih telah menggunakan TaskJoss! Aplikasi ini dibuat dengan memperhatikan kebutuhan pengguna untuk mengelola tugas dengan mudah dan cepat. Jika Anda menemukan bug atau masalah dalam aplikasi ini, mohon dimaafkan. Silakan laporkan masalah tersebut melalui fitur Issues di repositori GitHub ini. 
-
-Terima kasih telah menggunakan TaskJoss! 
